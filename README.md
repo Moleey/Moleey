@@ -2,7 +2,7 @@
 - `Ola me chamo Moleey`
 - `Eu gosto de ver animes, ler mangás e programar em Python3.`
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ruisueduardo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moleey&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 <details>
   <summary><b>Linguagens que eu utilizo: </b></summary>
