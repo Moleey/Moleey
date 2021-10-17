@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Moleey&color=000000&style=plastic&=viewers)
 
 #  Sobre mim:
-- `Ola, me chamo Moleey`
+- `Ola me chamo Moleey`
 - `Eu gosto de ver animes, ler mangás e programar em Python3.`
 
 <details>
