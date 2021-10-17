@@ -14,4 +14,6 @@
 <br>
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=Painel-Moleey&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=ConsultaIPV2&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moleey&layout=compact&langs_count=7&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
