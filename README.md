@@ -1,5 +1,5 @@
 #  Sobre mim:
-- `Apenas um Estudante chamado Moleey`
+- `Apenas um estudante chamado Moleey`
   <img src="https://github-readme-stats.vercel.app/api?username=Moleey&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
  ![](https://komarev.com/ghpvc/?username=Moleey&color=8E2DE2&style=plastic&label=viewers)
 <details>
