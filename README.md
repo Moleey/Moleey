@@ -1,6 +1,6 @@
 #  Sobre mim:
 - `Apenas um estudante chamado Moleey`
-  <img src="https://github-readme-stats.vercel.app/api?username=Moleey&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moleey&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
  ![](https://komarev.com/ghpvc/?username=Moleey&color=8E2DE2&style=plastic&label=viewers)
 <details>
   <summary><b>Linguagens que eu utilizo: </b></summary>
@@ -13,9 +13,9 @@
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=8E2DE2)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=8E2DE2)
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=Painel-Moleey&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=ConsultaIPV2&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moleey&layout=compact&langs_count=7&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=Painel-Moleey&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Moleey&repo=ConsultaIPV2&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moleey&layout=compact&langs_count=7&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 <details>
   <summary><b>Passa Tempos: </b></summary>
 <p align="center">
