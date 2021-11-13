@@ -8,6 +8,7 @@
 </p>
 
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF)
 ![git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
 <br>
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=00FFFF)
