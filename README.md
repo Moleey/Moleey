@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Moleey&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=fff&icon_color=FFFFFF">
  ![](https://komarev.com/ghpvc/?username=Moleey&color=FFFFFF&style=plastic&labelcolor=black&label=viewers)
 <details>
-  <summary><b>Linguagens que eu utilizo: </b></summary>
+  <summary><b>estatísticas e linguagens que eu utilizo: </b></summary>
 <p align="center">
 </p>
 
@@ -23,7 +23,11 @@
 </p>
 
 ![Assistir Animes](https://img.shields.io/badge/-Assistir%20Animes-000000?style=for-the-badge&logo=Crunchyroll&logoColor=FFFFFF)
+
 ![Jogar](https://img.shields.io/badge/Jogar-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF)
+
 ![Programar](https://img.shields.io/badge/Programar-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+
 ![Assistir Videos](https://img.shields.io/badge/Assistir%20Videos-000000?style=for-the-badge&logo=youtube&logoColor=FFFFFF)
+
 ![Músicas](https://img.shields.io/badge/Ouvir%20Músicas-000000?&style=for-the-badge&logo=spotify&logoColor=FFFFFF)
